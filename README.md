@@ -6,6 +6,8 @@ Bu proje, kredi kartı dolandırıcılığını tespit etmek amacıyla geliştir
 ## 🔗 Veri Kümesi
 Veri kümesi, aşağıdaki kaynaklardan elde edilmiştir:
 - Kaggle'daki [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+ 
+-  [Credit Card Fraud Detection Hugging Face](https://huggingface.co/spaces/btulftma/credit-card-detection)
   
 
 ## 🛠️ Kullanılan Kütüphaneler
